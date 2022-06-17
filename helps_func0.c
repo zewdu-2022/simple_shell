@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 
 /**
  * helpFunc - retrieves instruction on how to use builtin

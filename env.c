@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 
 /**
  * envFunc - prints the environment

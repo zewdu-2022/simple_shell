@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 
 /**
  * searchNode - searches linked list for string and
